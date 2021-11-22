@@ -14,6 +14,6 @@ These statistics are ultimately decided by games played and their outcomes. Our 
 
 ### CODING LANGUAGES:
 
-- Typescript, JS, React
+- Typescript, JS
 - CSS
 - HTML
